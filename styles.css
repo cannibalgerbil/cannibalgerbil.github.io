@@ -5,7 +5,7 @@ body {
     font-size: 16px;
     margin: 10%
 }
-a:default {
+a {
     color: #00FF66;
 }
 a:visited {
